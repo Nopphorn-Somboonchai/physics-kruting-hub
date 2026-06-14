@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+#display {
+    margin-top: 20px;
+    color: blue;
+    font-weight: bold;
+}
