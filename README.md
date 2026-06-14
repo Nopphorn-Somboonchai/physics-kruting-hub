@@ -201,5 +201,5 @@ physics-kruting-hub/
 
 ## <a id="author"></a>✍️ Author (ผู้พัฒนา)
 
-*   **ครูติง: นพพร สมบูรณ์ชัย (Nopphorn Somboonchai)**
+*   **ครูนพพร สมบูรณ์ชัย (Nopphorn Somboonchai)**
 *   *โครงการสร้างสรรค์สื่อดิจิทัลการศึกษาฟิสิกส์ ม.6 เล่ม 5*
